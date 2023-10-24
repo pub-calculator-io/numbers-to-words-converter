@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_numbers_to_words_converter
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Numbers to Words Converter by Calculator.iO";
 
 function display_ci_numbers_to_words_converter(){
