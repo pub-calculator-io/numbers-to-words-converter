@@ -1,4 +1,4 @@
-=== Numbers to Words Converter by Calculator.iO ===
+# Numbers to Words Converter by Calculator.iO
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
@@ -9,11 +9,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Convert numbers to words with our calculator. It accepts decimals and scientific notation and can display any U.S. dollar amount in words.
 
-== Description ==
+## Description
 
 Convert numbers to words with our calculator. It accepts decimals and scientific notation and can display any U.S. dollar amount in words.
 
-__Shortcode__
+### Shortcode
 
 Use the Numbers to Words Converter shortcode:
 
@@ -27,21 +27,21 @@ Libraries in use:
 5. https://air-datepicker.com/
 6. https://www.chartjs.org/
 
-== Installation ==
+## Installation
 
 1. Upload the /ci_numbers_to_words_converter/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Numbers to Words Converter](https://www.calculator.io/numbers-to-words-converter/ "Numbers to Words Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+## Usage
 * Add the shortcode `[ci_numbers_to_words_converter]` to your page or post and configure default mortgage parameters.
 * If you are using widgets, just add the Numbers to Words Converter to the sidebar through the `Appearance -> Widgets -> Numbers to Words Converter` menu in WordPress.
 * Add the following code: `<?php display_ci_numbers_to_words_converter(); ?>` to your template where you would like the Numbers to Words Converter to appear.
 
-== Screenshots ==
+## Screenshots
 1. The Numbers to Words Converter Input Form.
 2. The Numbers to Words Converter Calculation Results.
 
-== Changelog ==
+## Changelog
 
-= 1.0.0 =
+### 1.0.0
 * Initial release
