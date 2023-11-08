@@ -12,9 +12,8 @@ Convert numbers to words with our calculator. It accepts decimals and scientific
 3. Activate the [Numbers to Words Converter](https://www.calculator.io/numbers-to-words-converter/ "Numbers to Words Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_numbers_to_words_converter]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Numbers to Words Converter to the sidebar through the `Appearance -> Widgets -> Numbers to Words Converter` menu in WordPress.
-* Add the following code: `<?php display_ci_numbers_to_words_converter(); ?>` to your template where you would like the Numbers to Words Converter to appear.
+* Add the shortcode `[ci_numbers_to_words_converter]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_numbers_to_words_converter(); ?>` to your template where you would like the Numbers to Words Converter to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
