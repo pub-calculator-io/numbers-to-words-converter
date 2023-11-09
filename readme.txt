@@ -13,6 +13,8 @@ Convert numbers to words with our calculator. It accepts decimals and scientific
 
 Convert numbers to words with our calculator. It accepts decimals and scientific notation and can display any U.S. dollar amount in words.
 
+[Numbers to Words Converter Homepage](https://www.calculator.io/numbers-to-words-converter/ "Numbers to Words Converter Homepage")
+
 __Shortcode__
 
 Use the Numbers to Words Converter shortcode:
