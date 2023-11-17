@@ -1,6 +1,6 @@
 === Numbers to Words Converter by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: numbers to words, number to word converter, numeric to word, number to text, numeral to word, digit to word, numeral converter, digit to text, number spell out, convert number to words
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
