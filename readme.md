@@ -1,4 +1,4 @@
-# Numbers to Words Converter WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Numbers to Words Converter Widget for WordPress
 
 Convert numbers to words with our calculator. It accepts decimals and scientific notation and can display any U.S. dollar amount in words.
 
