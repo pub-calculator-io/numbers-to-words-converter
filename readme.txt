@@ -1,4 +1,4 @@
-=== Numbers to Words Converter by Calculator.iO ===
+=== Numbers to Words Converter ===
 Contributors: calculatorio
 Tags: numbers to words, number to word converter, numeric to word, number to text, numeral to word, digit to word, numeral converter, digit to text, number spell out, convert number to words
 Requires at least: 5.0
