@@ -7,7 +7,7 @@ Convert numbers to words with our calculator. It accepts decimals and scientific
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/numbers-to-words-converter/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /numbers-to-words-converter-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Numbers to Words Converter](https://www.calculator.io/numbers-to-words-converter/ "Numbers to Words Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
