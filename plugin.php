@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Numbers to Words Converter by www.calculator.io
+Plugin Name: CI Numbers to words converter
 Plugin URI: https://www.calculator.io/numbers-to-words-converter/
 Description: Convert numbers to words with our calculator. It accepts decimals and scientific notation and can display any U.S. dollar amount in words.
 Version: 1.0.0
