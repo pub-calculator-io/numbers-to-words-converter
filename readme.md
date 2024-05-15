@@ -3,7 +3,6 @@
 Convert numbers to words with our calculator. It accepts decimals and scientific notation and can display any U.S. dollar amount in words.
 
 ![Numbers to Words Converter Input Form](/assets/images/screenshot-1.png "Numbers to Words Converter Input Form")
-![Numbers to Words Converter Calculation Results](/assets/images/screenshot-2.png "Numbers to Words Converter Calculation Results")
 
 ## Installation
 

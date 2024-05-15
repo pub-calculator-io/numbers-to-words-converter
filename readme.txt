@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Numbers to Word
 == Screenshots ==
 
 1. The Numbers to Words Converter Input Form.
-2. The Numbers to Words Converter Calculation Results.
 
 == Installation ==
 
